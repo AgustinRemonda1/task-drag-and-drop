@@ -1,5 +1,5 @@
 {
-  "name": "pokedex-app",
+  "name": "task-drag-and-drop",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,8 +12,12 @@
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "dependencies": {
+    "@ant-design/colors": "^7.0.0",
+    "@ant-design/icons": "^5.2.6",
+    "antd": "^5.9.4",
     "next": "^12.1.0",
     "react": "17.0.2",
+    "react-beautiful-dnd": "^13.1.1",
     "react-dom": "17.0.2",
     "styled-components": "5.2"
   },

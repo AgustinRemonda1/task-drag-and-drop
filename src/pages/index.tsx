@@ -1,5 +1,5 @@
-import Example from "components/example";
+import DragAndDropBoard from "components/DragAndDropBoard";
 
 export default function Home() {
-  return <Example />;
+  return <DragAndDropBoard />;
 }
